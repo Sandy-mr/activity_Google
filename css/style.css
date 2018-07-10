@@ -1,0 +1,41 @@
+.c_t {
+    padding: 20px;
+    width: 490px;
+    text-align: center;
+}
+
+input.input.search {
+    width: 485px;
+    height: 44px;
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    border-radius: 2px;
+}
+
+i.fa.fa-microphone {
+    width: 56px;
+    font-size: 20px;
+    height: auto;
+    color: rgb(0,0,0,0.4);
+    position: absolute;
+    left: 90%;
+    bottom: 14px;
+}
+
+.container-search {
+    position: relative;
+    display: inline-block;
+}
+
+.buttons {
+    margin-top: 25px;
+}
+
+.start {
+    height: 36px;
+    border: 1px solid #f2f2f2;
+    background: #f2f2f2;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0 16px;
+    color: #777;
+}
